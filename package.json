@@ -1,0 +1,11 @@
+{
+  "name": "basic-js",
+  "version": "1.0.0",
+  "description": "Basic js course",
+  "repository": "https://github.com/danastasiev/basic-js",
+  "author": "Dmytro Anastasiev",
+  "type": "module",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.3"
+  }
+}

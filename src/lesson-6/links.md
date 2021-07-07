@@ -1,0 +1,15 @@
+# Improved Array Capabilities
+
+1. [Array MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+2. [Массивы с числовыми индексами](https://learn.javascript.ru/array)
+3. [Массивы: методы](https://learn.javascript.ru/array-methods)
+4. [Массив: перебирающие методы](https://learn.javascript.ru/array-iteration)
+5. [Array.of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of)
+6. [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+7. [Array.find](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+8. [Array.findIndex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
+9. [Array.fill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
+10. [ArrayBuffer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer)
+11. [Работа с бинарными данными с использованием типизированных массивов](https://habrahabr.ru/company/microsoft/blog/133998/)
+12. [ArrayBuffer и SharedArrayBuffer в JavaScript, часть 1](https://habrahabr.ru/company/ruvds/blog/331344/)
+13. [ArrayBuffer и SharedArrayBuffer в JavaScript, часть 2](https://habrahabr.ru/company/ruvds/blog/331760/)
